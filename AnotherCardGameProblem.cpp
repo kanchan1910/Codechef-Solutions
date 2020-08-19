@@ -123,6 +123,7 @@ int main(){
    int chef=(ceil(pc/9.0));
    int rick=(ceil(pr/9.0));
    if(rick<=chef){
+   //if rick's power is less than or equal to chef's power
        cout<<1<<" "<<rick<<endl;
    }
    else if(rick>chef){
