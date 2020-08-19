@@ -16,7 +16,7 @@
 #define mini min_element
 #define lcm(a,b) (a*b/__gcd(a,b))
 #define set_bits(x) __builtin_popcountll(x)
-#define mp make_pair
+#define m_p make_pair
 using namespace std;
 lli no_of_divisors(lli n){ 
   lli count = 0; 
