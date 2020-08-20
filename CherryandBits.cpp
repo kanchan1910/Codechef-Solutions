@@ -200,6 +200,6 @@ int main(){
 }
 
 //TC: O(Q+n*m)
-//SC: O(N)
+//SC: O(N*M)
 
 
