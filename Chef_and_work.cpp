@@ -206,5 +206,5 @@ int main(){
     }
    
 }
-//TC: O(n)
+//TC: O(N)
 //SC: O(1)
